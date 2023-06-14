@@ -6,9 +6,16 @@ namespace MinotaurLabyrinthTest
     public class Tests
     {
         [TestMethod]
-        public void DummyTest()
+        public void PitRoomTest()
         {
-            Assert.AreNotSame(1, 2);
+         Pit pitRoom = new Pit();
+         Hero hero = new Hero();
+        Map map = new Map(1,1);
+
+        pitRoom.Activate(hero, map);
+
+        if (hero.IsAlive) {
+             Assert.AreEqual(pitRoom.IsActive, false);
         }
     }
 }

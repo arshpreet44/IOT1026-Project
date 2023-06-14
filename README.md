@@ -5,8 +5,6 @@
 	<a href="https://github.com/arshpreet44/IOT1026-Project/actions/workflows/formatting.yml">
     <img src="https://github.com/arshpreet44/IOT1026-Project/actions/workflows/formatting.yml/badge.svg"/>
 	<br/>
-    <a href="https://codecov.io/gh/arshpreet44/IOT1026-Project" > 
-    <img src="https://codecov.io/gh/arshpreet44/IOT1026-Project/branch/main/graph/badge.svg?token=JS0857X5JD"/> 
 	<img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">	
     </a>
 </p>
