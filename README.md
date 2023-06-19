@@ -10,7 +10,9 @@
 </p>
 
 # IOT1026-Project
-Write a description of your `Room` and `Monster` class here.
+This is a game in which we have to find the sword and exit the room by avoiding the pits and eggs also we need to avoid the monsters.
+i have done this assigment in a group with simranjeet kaur.
+we have added the funcanality of an egg, there are 2 posibilities when the egg cracks if it is a dinasour then the player die, if its a chicken then nothing happens
 
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
